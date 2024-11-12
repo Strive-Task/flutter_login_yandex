@@ -11,6 +11,7 @@ import com.yandex.authsdk.YandexAuthLoginOptions;
 import com.yandex.authsdk.YandexAuthOptions;
 import com.yandex.authsdk.YandexAuthSdk;
 import com.yandex.authsdk.YandexAuthToken;
+import com.yandex.authsdk.internal.strategy.LoginType;
 
 import java.util.HashMap;
 import java.util.Map;
